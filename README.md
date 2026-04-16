@@ -5,7 +5,7 @@ Atualmente sou estudante de ApontiAcademy e estou mergulhando no mundo do desenv
 ***
 ## 🚀 O que estou aprendendo agora:
 
-Linguagens e Ferramentas: Iniciando meus estudos em Programação e tecnoliga.
+Linguagens e Ferramentas: Iniciando meus estudos em Programação e tecnologia.
 
 Foco Técnico: No momento, estou focado em dominar a base de Desenvolvimento em back-end.
 
